@@ -212,6 +212,7 @@ Connect OLED to I2C (SDA→21, SCL→22), buttons to GPIO 12 & 13, buzzer to GPI
 | 🌐 Web Version | [Arceus-Labs/TRM-Web](https://github.com/Arceus-Labs/TRM-Web) |
 | 📊 Slide Deck | [Google Drive](https://drive.google.com/file/d/19qsP3uPnF_kbo4SKc0cpCnif0oX9e3MH/view?usp=sharing) |
 | 🎥 Overview Video | [Google Drive](https://drive.google.com/file/d/1EbXJda__bJuiQr_99y3YCqOkgEXG2dLL/view?usp=sharing) |
+| 📄 Report | [Notion](https://crocus-zenobia-863.notion.site/The-Ruin-Machine-Technical-Report-2dc1ebfe2064806a9625f49a9871aaf3?pvs=73) |
 
 </div>
 
